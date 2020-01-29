@@ -1,0 +1,6 @@
+In this project, I implemented the Perspective and Othrographic projects using:
+- Orthographic Proj formulas for x and y
+- Perspective Proj formulas for x and y
+- a 4X4 * 4x1 multiply function 
+- a line drawing function
+
