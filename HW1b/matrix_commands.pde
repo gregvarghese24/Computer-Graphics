@@ -1,10 +1,6 @@
-// Dummy routines for OpenGL commands.
-// These are for you to write!
-// You should incorporate your transformation matrix routines from part A of this project.
+
 
 // Greg Varghese
-// CS 3451
-// Homework 1b
 // 31 January 2020
 
 // Matrix Stack Library
