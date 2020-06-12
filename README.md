@@ -1,2 +1,3 @@
-# Graphics3451Turk
-Spring2020
+# Computer Graphics
+
+All work is property of Greg Varghese.
